@@ -1,5 +1,3 @@
-using System;
-
 namespace SelfAssApp1
 {
     class Product
