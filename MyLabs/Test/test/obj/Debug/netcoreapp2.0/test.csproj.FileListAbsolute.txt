@@ -1,0 +1,10 @@
+c:\Users\maris_apels\Documents\Visual Studio 2017\Projects\Learning\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\MyLabs\Test\test\bin\Debug\netcoreapp2.0\test.deps.json
+c:\Users\maris_apels\Documents\Visual Studio 2017\Projects\Learning\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\MyLabs\Test\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.json
+c:\Users\maris_apels\Documents\Visual Studio 2017\Projects\Learning\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\MyLabs\Test\test\bin\Debug\netcoreapp2.0\test.runtimeconfig.dev.json
+c:\Users\maris_apels\Documents\Visual Studio 2017\Projects\Learning\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\MyLabs\Test\test\bin\Debug\netcoreapp2.0\test.dll
+c:\Users\maris_apels\Documents\Visual Studio 2017\Projects\Learning\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\MyLabs\Test\test\bin\Debug\netcoreapp2.0\test.pdb
+c:\Users\maris_apels\Documents\Visual Studio 2017\Projects\Learning\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\MyLabs\Test\test\obj\Debug\netcoreapp2.0\test.csproj.CoreCompileInputs.cache
+c:\Users\maris_apels\Documents\Visual Studio 2017\Projects\Learning\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\MyLabs\Test\test\obj\Debug\netcoreapp2.0\test.AssemblyInfoInputs.cache
+c:\Users\maris_apels\Documents\Visual Studio 2017\Projects\Learning\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\MyLabs\Test\test\obj\Debug\netcoreapp2.0\test.AssemblyInfo.cs
+c:\Users\maris_apels\Documents\Visual Studio 2017\Projects\Learning\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\MyLabs\Test\test\obj\Debug\netcoreapp2.0\test.dll
+c:\Users\maris_apels\Documents\Visual Studio 2017\Projects\Learning\edX_DEV247X_Build_WebAPIs_Using_ASP.NET\MyLabs\Test\test\obj\Debug\netcoreapp2.0\test.pdb
