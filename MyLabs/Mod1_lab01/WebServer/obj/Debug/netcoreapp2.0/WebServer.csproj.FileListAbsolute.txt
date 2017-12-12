@@ -1,0 +1,10 @@
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/MyLabs/WebServer/bin/Debug/netcoreapp2.0/WebServer.deps.json
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/MyLabs/WebServer/bin/Debug/netcoreapp2.0/WebServer.runtimeconfig.json
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/MyLabs/WebServer/bin/Debug/netcoreapp2.0/WebServer.runtimeconfig.dev.json
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/MyLabs/WebServer/bin/Debug/netcoreapp2.0/WebServer.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/MyLabs/WebServer/bin/Debug/netcoreapp2.0/WebServer.pdb
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/MyLabs/WebServer/obj/Debug/netcoreapp2.0/WebServer.csproj.CoreCompileInputs.cache
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/MyLabs/WebServer/obj/Debug/netcoreapp2.0/WebServer.AssemblyInfoInputs.cache
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/MyLabs/WebServer/obj/Debug/netcoreapp2.0/WebServer.AssemblyInfo.cs
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/MyLabs/WebServer/obj/Debug/netcoreapp2.0/WebServer.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/MyLabs/WebServer/obj/Debug/netcoreapp2.0/WebServer.pdb
