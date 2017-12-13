@@ -4,15 +4,16 @@ using WebServer.Models;
 
 namespace WebServer.Controllers {
 
-    [Route("api/[controller]")] //[Route("api/inventories")]
+    [Route("api/[controller]")] 
     public class ProductsController : Controller {
 
-        [HttpGet] //[HttpGet("all")] //[HttpGet, Route("all")]
+        [HttpGet]
+        [HttpGet("all")]
         public Product[] Get() {
             return FakeData.Products.Values.ToArray();
         }
 
-        [HttpGet("{id}")] //[HttpGet("ByID/{id}")]
+        [HttpGet("ByID/{id}")]
         public Product Get(int id) {
             if (FakeData.Products.ContainsKey(id))
                 return FakeData.Products[id];
@@ -20,12 +21,13 @@ namespace WebServer.Controllers {
                 return null;
         }
 
-        // [HttpGet("from/{low}/to/{high}")]
-        // public Product[] Get(int low, int high) {
-        //     var products = FakeData.Products.Values
-        //     .Where(p => p.Price >= low && p.Price <= high).ToArray();
-        //     return products;
-        // }
+         [HttpGet("from/{low}/to/{high}")]
+         public Product[] Get(int low, int high) 
+         {
+            var products = FakeData.Products.Values
+            .Where(p => p.Price >= low && p.Price <= high).ToArray();
+            return products;
+         }
 
         [HttpPost]
         public Product Post([FromBody]Product product) {
