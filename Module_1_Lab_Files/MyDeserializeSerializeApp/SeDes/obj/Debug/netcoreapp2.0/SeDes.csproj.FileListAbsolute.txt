@@ -1,0 +1,10 @@
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/MyDeserializeSerializeApp/SeDes/bin/Debug/netcoreapp2.0/SeDes.deps.json
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/MyDeserializeSerializeApp/SeDes/bin/Debug/netcoreapp2.0/SeDes.runtimeconfig.json
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/MyDeserializeSerializeApp/SeDes/bin/Debug/netcoreapp2.0/SeDes.runtimeconfig.dev.json
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/MyDeserializeSerializeApp/SeDes/bin/Debug/netcoreapp2.0/SeDes.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/MyDeserializeSerializeApp/SeDes/bin/Debug/netcoreapp2.0/SeDes.pdb
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/MyDeserializeSerializeApp/SeDes/obj/Debug/netcoreapp2.0/SeDes.csproj.CoreCompileInputs.cache
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/MyDeserializeSerializeApp/SeDes/obj/Debug/netcoreapp2.0/SeDes.AssemblyInfoInputs.cache
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/MyDeserializeSerializeApp/SeDes/obj/Debug/netcoreapp2.0/SeDes.AssemblyInfo.cs
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/MyDeserializeSerializeApp/SeDes/obj/Debug/netcoreapp2.0/SeDes.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/MyDeserializeSerializeApp/SeDes/obj/Debug/netcoreapp2.0/SeDes.pdb

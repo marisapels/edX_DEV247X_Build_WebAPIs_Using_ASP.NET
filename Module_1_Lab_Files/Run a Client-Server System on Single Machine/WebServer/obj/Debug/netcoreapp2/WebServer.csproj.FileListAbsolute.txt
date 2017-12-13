@@ -1,0 +1,10 @@
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/Run a Client-Server System on Single Machine/WebServer/bin/Debug/netcoreapp2/WebServer.deps.json
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/Run a Client-Server System on Single Machine/WebServer/bin/Debug/netcoreapp2/WebServer.runtimeconfig.json
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/Run a Client-Server System on Single Machine/WebServer/bin/Debug/netcoreapp2/WebServer.runtimeconfig.dev.json
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/Run a Client-Server System on Single Machine/WebServer/bin/Debug/netcoreapp2/WebServer.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/Run a Client-Server System on Single Machine/WebServer/bin/Debug/netcoreapp2/WebServer.pdb
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/Run a Client-Server System on Single Machine/WebServer/obj/Debug/netcoreapp2/WebServer.csproj.CoreCompileInputs.cache
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/Run a Client-Server System on Single Machine/WebServer/obj/Debug/netcoreapp2/WebServer.AssemblyInfoInputs.cache
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/Run a Client-Server System on Single Machine/WebServer/obj/Debug/netcoreapp2/WebServer.AssemblyInfo.cs
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/Run a Client-Server System on Single Machine/WebServer/obj/Debug/netcoreapp2/WebServer.dll
+/Users/marisapels/Documents/Projects/Learning/EDX/BuildWebApi/Labs/Module_1_Lab_Files/Run a Client-Server System on Single Machine/WebServer/obj/Debug/netcoreapp2/WebServer.pdb
